@@ -2,21 +2,26 @@ BitcoinEssence integration/staging tree
 ================================
 
 http://www.bitcoinessence.org
+http://www.bitcoinessence.info
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 BitcoinEssence Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2018 BitcoinEssence Developers 
+(Lee Dong Hun)
 
 What is BitcoinEssence?
 ----------------
 
 BitcoinEssence is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 15 second block targets 
+ - Transaction speed is in few seconds
+ - subsidy halves in 1,575,000 blocks (9 months)
+ - 2,100,000,000 total coins
+ - 500 coins per block
+ - 25% of total coins were premined for develop, marketing cost, pre-sale, 75% of total coins is reserved for mining
+ 
+ 
+The rest is the same as Bitcoin.  
 
 For more information, as well as an immediately useable, binary version of
 the BitcoinEssence client sofware, see http://www.bitcoinessence.org.
