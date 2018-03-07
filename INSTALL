@@ -1,0 +1,9 @@
+Building BitcoinEssence
+
+See doc/readme-qt.rst for instructions on building BitcoinEssence-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitcoinEssence.
+
+See doc/build-*.txt for instructions on building bitcoinessenced,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitcoinEssence.
