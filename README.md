@@ -12,7 +12,7 @@ Copyright (c) 2018 BitcoinEssence Developers
 What is BitcoinEssence?
 ----------------
 
-BitcoinEssence is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+BitcoinEssence is a lite version of Bitcoin using Scrypt as a Proof-Of-Work algorithm.
  - 15 second block targets 
  - Transaction speed is in few seconds
  - subsidy halves in 1,575,000 blocks (9 months)
