@@ -1095,7 +1095,7 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
     return nSubsidy + nFees;
 }
 
-static const int64 nTargetTimespan = 1 * 24 * 60 * 60; // BitcoinEssence: 1 days
+static const int64 nTargetTimespan = 1 * 24 * 60 * 60 / 96; // BitcoinEssence: 1 days / 96 = 15 minutes
 static const int64 nTargetSpacing = 0.25 * 60; // BitcoinEssence: 15 seconds
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 
