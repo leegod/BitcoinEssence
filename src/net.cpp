@@ -1225,8 +1225,9 @@ void ThreadDNSAddressSeed()
 
 unsigned int pnSeed[] =
 {    // this is 175.126.37.238, which is wsxdrvps.cafe24.com 's ip address
-    //0xee257eaf  is wrong
-    0xaf7e25ee
+    //0xee257eaf   original
+    //0xaf7e25ee    browserling.com/tools/hex-to-ip result
+	0xee257eaf
 };
 
 void DumpAddresses()
