@@ -1224,10 +1224,9 @@ void ThreadDNSAddressSeed()
 
 
 unsigned int pnSeed[] =
-{    // this is 175.126.37.238, which is wsxdrvps.cafe24.com 's ip address
-    //0xee257eaf   original
-    //0xaf7e25ee    browserling.com/tools/hex-to-ip result
-	0xee257eaf
+{    // this is 175.126.37.238, which is wsxdrvps.cafe24.com's ip address  = 0xee257eaf
+	// and 119.205.235.237 is #2 server's ip  = 0xedebcd77
+	0xee257eaf, 0xedebcd77
 };
 
 void DumpAddresses()

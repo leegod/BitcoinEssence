@@ -2235,8 +2235,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 2333 or testnet: 12333)</source>
-        <translation>Sujungimo klausymas prijungčiai  &lt;port&gt; (pagal nutylėjimą: 2333 arba testnet: 12333)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 9183 or testnet: 19183)</source>
+        <translation>Sujungimo klausymas prijungčiai  &lt;port&gt; (pagal nutylėjimą: 9183 arba testnet: 19183)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2270,8 +2270,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 2332 or testnet: 12332)</source>
-        <translation>Klausymas JSON-RPC sujungimui prijungčiai &lt;port&gt; (pagal nutylėjimą: 2332 or testnet: 12332)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9182 or testnet: 19182)</source>
+        <translation>Klausymas JSON-RPC sujungimui prijungčiai &lt;port&gt; (pagal nutylėjimą: 9182 or testnet: 19182)</translation>
     </message>
     <message>
         <location line="+37"/>
