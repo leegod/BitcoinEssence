@@ -5,12 +5,7 @@ http://www.bitcoinessence.org
 
 http://www.bitcoinessence.info
 
-Copyright (c) 2009-2014 Bitcoin Developers
-
-Copyright (c) 2011-2014 Litecoin Developers
-
-Copyright (c) 2018 BitcoinEssence Developer 
-(Lee Dong Hun)
+Copyright (c) 2009-2014 Bitcoin Developers, Copyright (c) 2011-2014 Litecoin Developers, Copyright (c) 2018 BitcoinEssence Developer(Lee Dong Hun)
 
 What is BitcoinEssence?
 ----------------
@@ -28,8 +23,12 @@ The rest is the same as Bitcoin.
 
 For more information, as well as an immediately useable, binary version of
 the BitcoinEssence client sofware, see http://www.bitcoinessence.org.
+and download source, window build at https://github.com/leegod/BitcoinEssence/releases
+
 
 For block explorer, transaction ID, wallet search, see http://www.bitcoinessence.info 
+
+
 
 License
 -------
