@@ -28,8 +28,20 @@ and download source, window build at https://github.com/leegod/BitcoinEssence/re
 
 For block explorer, transaction ID, wallet search, see http://www.bitcoinessence.info 
 
+Install
+-------
+<Ubuntu OS>
+Clone project or download source.zip file and compile by from /BitcoinEssence , type [ qmake ], and then [ make ]
+ 
+<Windows>
+Download BitcoinEssence-windows build(version) file and unzip it, 
+Run bitcoinessence-qt.exe file for standalone, or install bitcoinessence-0.8.7.5-win32-setup.exe
+Both are same program.
 
+if you previously installed 0.8.x version program, delete whole files at c:/user/<username>/Appdata/Roaming/BitcoinEssence
+and re-install or re-run program. 
 
+ 
 License
 -------
 
