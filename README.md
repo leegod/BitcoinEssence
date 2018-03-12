@@ -38,7 +38,7 @@ Download BitcoinEssence-windows build(version) file and unzip it,
 Run bitcoinessence-qt.exe file for standalone, or install bitcoinessence-0.8.7.5-win32-setup.exe
 Both are same program.
 
-if you previously installed 0.8.x version program, delete whole files at c:/user/<username>/Appdata/Roaming/BitcoinEssence
+If you previously installed 0.8.x version program, delete whole files at c:/user/(username)/Appdata/Roaming/BitcoinEssence
 and re-install or re-run program. 
 
  
