@@ -30,10 +30,10 @@ For block explorer, transaction ID, wallet search, see http://www.bitcoinessence
 
 Install
 -------
-<Ubuntu OS>
+(Ubuntu OS)
 Clone project or download source.zip file and compile by from /BitcoinEssence , type [ qmake ], and then [ make ]
  
-<Windows>
+(Windows)
 Download BitcoinEssence-windows build(version) file and unzip it, 
 Run bitcoinessence-qt.exe file for standalone, or install bitcoinessence-0.8.7.5-win32-setup.exe
 Both are same program.
