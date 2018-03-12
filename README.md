@@ -41,6 +41,12 @@ Both are same program.
 If you previously installed 0.8.x version program, delete whole files at c:/user/(username)/Appdata/Roaming/BitcoinEssence
 and re-install or re-run program. 
 
+
+Mining
+-------
+For start mine, at your wallet program, see menu's [Help-Debug window] -> Console tab -> type "setgenerate true" at below.
+for turn off, type "setgenerate false"
+
  
 License
 -------
