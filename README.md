@@ -15,8 +15,7 @@ BitcoinEssence is a lite version of Bitcoin using Scrypt as a Proof-Of-Work algo
  - Transaction speed is in few seconds
  - subsidy halves in 1,575,000 blocks (9 months)
  - 2,100,000,000 total coins
- - 500 coins per block
- - 25% of total coins were premined for develop, marketing cost, pre-sale, 75% of total coins is reserved for mining
+ - 500 coins per block 
  
  
 The rest is the same as Bitcoin.  
@@ -28,8 +27,26 @@ and download source, window build at https://github.com/leegod/BitcoinEssence/re
 
 For block explorer, transaction ID, wallet search, see http://www.bitcoinessence.info 
 
+Install
+-------
+(Ubuntu OS)
+Clone project or download source.zip file and compile by from /BitcoinEssence , type [ qmake ], and then [ make ]
+ 
+(Windows)
+Download BitcoinEssence-windows build(version) file and unzip it, 
+Run bitcoinessence-qt.exe file for standalone, or install bitcoinessence-0.8.7.5-win32-setup.exe
+Both are same program.
+
+If you previously installed 0.8.x version program, delete whole files at c:/user/(username)/Appdata/Roaming/BitcoinEssence
+and re-install or re-run program. 
 
 
+Mining
+-------
+For start mine, at your wallet program, see menu's [Help-Debug window] -> Console tab -> type "setgenerate true" at below.
+for turn off, type "setgenerate false"
+
+ 
 License
 -------
 
