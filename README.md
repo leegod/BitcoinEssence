@@ -16,6 +16,7 @@ BitcoinEssence is a lite version of Bitcoin using Scrypt as a Proof-Of-Work algo
  - subsidy halves in 1,575,000 blocks (9 months)
  - 2,100,000,000 total coins
  - 500 coins per block 
+ - 25% premine for continuous develop, marketing cost, 75% reserved for mining
  
  
 The rest is the same as Bitcoin.  
